@@ -1,4 +1,5 @@
-# 🌍 TripBozo Frontend
+
+# 🌍 tripbozo Frontend
 
 > A modern, responsive web application that curates personalized travel app bundles for destinations worldwide. Built with Next.js 14, React, and TailwindCSS for optimal performance and user experience.
 
@@ -157,7 +158,7 @@ Icons and manifest are configured in [`public/manifest.json`](public/manifest.js
 
 ## 🔍 SEO Implementation
 
-TripBozo includes comprehensive SEO optimization:
+tripbozo includes comprehensive SEO optimization:
 
 - **Structured Data**: Schema.org markup for Organization, WebSite, and SoftwareApplication
 - **Meta Tags**: Complete Open Graph and Twitter Card support
@@ -305,3 +306,6 @@ npm run export  # For static export
 **Built with ❤️ by the TripBozo Team**
 
 [🌐 Website](https://tripbozo.com) • [📧 Contact](mailto:support@tripbozo.com) • [🐦 Twitter](https://twitter.com/tripbozo)
+=======
+
+
